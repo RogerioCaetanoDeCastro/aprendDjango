@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+my_venv
+k36reconh
+db.sqlite3
+base
+/static
+.DS_Store
